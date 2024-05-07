@@ -1,5 +1,5 @@
 '''
-Azeem Cochinwala - 501237632
+Azeem Cochinwala
 
 Program Description: 
     This program is a grade calculator, but not just any grade calculator. Its purpose is for use during the semester. 
